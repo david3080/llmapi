@@ -1,0 +1,6 @@
+/claude3/llamaindex/data
+/**/.DS_Store
+.vscode
+.env
+data/1_BasicRAG
+data/2_ReactAgent
